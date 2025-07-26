@@ -10,4 +10,4 @@ LocalStorage
  Features:
  Add a new note
  Delete a note
- Notes are saved automatically in LocalStorage
+ Notes are saved automatically in LocalStorage**
